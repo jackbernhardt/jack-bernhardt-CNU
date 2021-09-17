@@ -31,7 +31,7 @@ The second level is centered around the section pages. These are pictures, organ
 
 The next section, or level, are the content pages that allow users access to critical essays on David Livinstone’s life. There are an array of different essays, written by all different authors about an assortment of different topics relating to Livingstone’s accounts in Africa. These essays also shed light into Livingstone organization projects, programs, and collaborations. 
 
-![Manuscript Viewer)[L4.png]
+![Manuscript Viewer](L4.png)
 
 Level four, the manuscript viewer, is one of the most essential sections within this website. This action within the project enables viewers to interact with high-resolution images of Livingstone’s original manuscripts. This is to mimic a real-life encounter with the explorer’s written document and assist users in full-interactivity that includes zooming, rotating, or sharing each of his over 7,000 individual manuscripts. Within this section of the website is where the most interaction is within the accounts and life of David Liviingstone and adding its mark to the digital humanities.
 
