@@ -8,7 +8,7 @@
 **Project URL: https://livingstoneonline.org/**
 #
 
-![Main Page](images2/L1.png)
+![Main Page](https://github.com/jackbernhardt/jack-bernhardt-CNU/blob/ed9692930a947be7ba783cf7a755c3057d7aff22/images2/L1.png)
 
 Summary
 
@@ -25,13 +25,13 @@ The project website is self-explanatory in use, divided into chronological secti
 
 Livingstone Online consists of five sections, or as the site states, ‘levels’ within each main topic mentioned before. The first level is the home page, consisting of slideshows and images that reflect David Livingstone’s diverse disciplines and areas of study during his ventures.
 
-![Second Level](images2/L2.png)
+![Second Level](https://github.com/jackbernhardt/jack-bernhardt-CNU/blob/ed9692930a947be7ba783cf7a755c3057d7aff22/images2/L2.png)
 
 The second level is centered around the section pages. These are pictures, organized into tiles, that show images from Livingstone’s journeys and life. Each image has links that direct you to other pages in the site explaining more detail about each picture or manuscript. 
 
 The next section, or level, are the content pages that allow users access to critical essays on David Livinstone’s life. There are an array of different essays, written by all different authors about an assortment of different topics relating to Livingstone’s accounts in Africa. These essays also shed light into Livingstone organization projects, programs, and collaborations. 
 
-![Manuscript Viewer](images2/L4.png)
+![Manuscript Viewer](https://github.com/jackbernhardt/jack-bernhardt-CNU/blob/ed9692930a947be7ba783cf7a755c3057d7aff22/images2/L4.png)
 
 Level four, the manuscript viewer, is one of the most essential sections within this website. This action within the project enables viewers to interact with high-resolution images of Livingstone’s original manuscripts. This is to mimic a real-life encounter with the explorer’s written document and assist users in full-interactivity that includes zooming, rotating, or sharing each of his over 7,000 individual manuscripts. Within this section of the website is where the most interaction is within the accounts and life of David Liviingstone and adding its mark to the digital humanities.
 
