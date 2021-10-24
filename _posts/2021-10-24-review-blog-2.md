@@ -11,7 +11,7 @@
 ![Main Page](http://jackbernhardt.github.io/jack-bernhardt-CNU/images2/Capture.PNG)
 
 
-The Lord of the Rings Project looks to visualize many aspects of author J.R.R Tolkien’s The Hobbit and The Lord of the Rings book series. Tolkein wrote his books throughout the 1930’s to the mid 1950’s and made an importance in connecting the separate tales through massive world-building, including maps and fictional history of his fictional-universe, Middle Earth. The website includes a map of Middle Earth and uses it to display the timelines, places, paths and major events of the characters and books.
+The Lord of the Rings Project looks to visualize many aspects of author J.R.R Tolkien’s The Hobbit and The Lord of the Rings book series. Tolkein wrote his books throughout the 1930’s to the mid 1950’s and made an importance in connecting the separate tales through massive world-building, including maps and fictional history of his fictional-universe, Middle-Earth. The website includes a map of Middle-Earth and uses it to display the timelines, places, paths and major events of the characters and books.
 
 Though Tolkein’s stories were limited to the pages in his book, this project looks to illustrate Bilbo Baggins’ 172 day journey in The Hobbit and his nephew Frodo’s 6 month trek in The Lord of the Rings. This helps users and readers of the books to envision the locations and events in respect to each other, adding to the lore of Tolkein’s universe. The map includes a dropdown menu where you can select specific characters, places, and events and they are color coordinated for differentiation. The project, seperate from the maps, includes many other features as well. 
 
