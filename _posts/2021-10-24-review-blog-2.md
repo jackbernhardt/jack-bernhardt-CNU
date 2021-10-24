@@ -1,4 +1,4 @@
-#
+
 **Review Blog #2**
 
 **The Lord of the Rings Project**
@@ -6,7 +6,7 @@
 **Project Director: Emil Johansson**
 
 **Project URL: http://lotrproject.com/**
-#
+
 
 ![Main Page](https://github.com/jackbernhardt/jack-bernhardt-CNU/blob/0ed9d4fbe471ada60066f990712346578916b847/images2/Capture.PNG)
 
